@@ -1,0 +1,14 @@
+LOGISTICS DATA ANALYSIS RESULTS
+========================================
+
+Total Shipments: 40
+On-Time Delivery Rate: 47.50%
+Average Delivery Time: 3.60 days
+Average Shipping Cost: Rs. 990.75
+Delivery Delay Rate: 52.50%
+
+MODEL PERFORMANCE
+-------------------------
+Mean Absolute Error: 0.03 days
+Root Mean Squared Error: 0.08 days
+R2 Score: 1.00
