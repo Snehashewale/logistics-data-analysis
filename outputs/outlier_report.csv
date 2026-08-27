@@ -1,0 +1,5 @@
+Feature,Lower_Bound,Upper_Bound,Outlier_Count
+Distance,-485.0,1175.0,0
+Shipping_Cost,-1063.75,3046.25,0
+Order_Quantity,-48.5,149.5,0
+Delivery_Time,-2.5,9.5,0
