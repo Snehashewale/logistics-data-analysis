@@ -1,0 +1,5 @@
+Optimization_Area,Recommendation
+Delay Risk Monitoring,Prioritize shipments with high predicted delivery time.
+Route Planning,Review long-distance routes with high delivery duration.
+Vehicle Allocation,Prefer faster vehicle types when delivery deadlines are strict.
+Transportation Cost,Monitor shipments with above-median cost per kilometre.
