@@ -1,0 +1,3 @@
+Cluster,Shipments,Avg_Distance,Avg_Shipping_Cost,Avg_Order_Quantity,Cluster_Type
+0,23,164.69565217391303,558.695652173913,28.73913043478261,Short-Distance / Low-Volume
+1,17,579.4117647058823,1575.2941176470588,77.58823529411765,Long-Distance / High-Cost
